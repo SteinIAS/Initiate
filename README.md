@@ -11,6 +11,8 @@ There is an Adobe XD file in this repository containing the design we'd like you
 - There will only ever be 20 staff.
 - The API is very simple and doesn't contain any filtering, so that will need to be implemented client-side.
 
+Once you have completed the project, you can send a link to your repo (please make sure it's accessible to us) or a zip folder.
+
 If you have any questions, please do not hesitate to get in touch with HR or your technical contact.
 
 Good luck!
