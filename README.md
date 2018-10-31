@@ -4,6 +4,7 @@ We're keen to show off our staff here at [Stein IAS](https://steinias.com), and 
 
 There is an Adobe XD file in this repository containing the design we'd like you to follow. If you cannot open the file or would prefer to access the design online, the design specs are [available here](https://xd.adobe.com/spec/db20a554-d1de-4904-4cd1-b36db60704e4-ad11/screen/d81915ed-2e05-4cea-a9c6-8cd00c1e4204/Our-Staff/). 
 
+- We want employees with their birthday coming up the soonest to be first in the list e.g. someone who had their birthday yesterday would be last, and today would be first.
 - If you cannot use the Omnes font, we recommend picking a similar one from an available font library.
 - We're not looking for pixel perfect, but be mindful of certain design decisions.
 - Don't worry about the other nav items, they can have a '#' href.
