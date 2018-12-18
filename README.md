@@ -1,6 +1,6 @@
 # Initiate
 
-We're keen to show off our staff here at [Stein IAS](https://steinias.com), and what better way than a staff directory! Here's where you come in - we'd like you to build a front-end for our [staff directory API](https://interview.dev.steinias.com/api/employees)! Feel free to use whatever frameworks/languages you feel comfortable with, but note that we may ask why certain decisions were made.
+We're keen to show off our staff here at [Stein IAS](https://www.steinias.com), and what better way than a staff directory! Here's where you come in - we'd like you to build a front-end for our [staff directory API](https://interview.dev.steinias.com/api/employees)! Feel free to use whatever frameworks/languages you feel comfortable with, but note that we may ask why certain decisions were made.
 
 There is an Adobe XD file in this repository containing the design we'd like you to follow. If you cannot open the file or would prefer to access the design online, the design specs are [available here](https://xd.adobe.com/spec/db20a554-d1de-4904-4cd1-b36db60704e4-ad11/screen/d81915ed-2e05-4cea-a9c6-8cd00c1e4204/Our-Staff/). 
 
